@@ -14,3 +14,5 @@ Fecha o8 de octubre
 Adicione el metodo de ordenamiento bubble sort
 
 ![alt text](../assets/image.png)
+
+.
